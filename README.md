@@ -35,10 +35,12 @@ Linguagens de programação: Python;
 
 Softwares de estatística e mineração de dados: R, Excel;
 
-Softwares de visualização de dados: Power BI;
+Softwares de visualização de dados: Power BI, Google Analytics;
 
-Banco de dados: MySQL, MongoDB, PostGis/PostsSQL;
+Banco de dados: MySQL, MongoDB, PostGis/PostsSQL, Oracle;
 
 Computação em nuvem: Google Cloud;
 
-Tecnologias GIS: ArcGis (Maps/Pro), Qgis, Geoda.
+Tecnologias GIS: ArcGis (Maps/Pro), Qgis, Geoda;
+
+
