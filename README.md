@@ -1,6 +1,6 @@
 ### Prazer, sou Thais. Bem vindo por aqui. 😊
 
-- Estudante de Análise de Dados e Pós-graduanda em Big Data.
+- Análise de Dados e Pós-graduanda em Big Data.
 
 Doutoranda em Geografia e Meio Ambiente, com foco em análise espacial.
 
