@@ -31,7 +31,7 @@ Análise de Dados Espaciais.
 
 ## Ferramentas:
 
-Linguagens de programação: Python;
+Linguagens de programação: Python, SQL, R;
 
 Softwares de estatística e mineração de dados: R, Excel;
 
