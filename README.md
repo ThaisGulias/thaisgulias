@@ -14,7 +14,11 @@
 ## Experiências:
 
 Análise de Dados: Python, R, SQL (NoSQL e bancos relacionais), análise preditiva e descritiva.
+
 Data Visualization: Power BI, Looker, Metabase, storytelling com dados, relatórios dinâmicos.
+
 Análise Espacial: QGIS, ArcGIS, mapeamento geoespacial, Google Earth Engine.
+
 Cloud Computing: AWS, GCP, integração de APIs, automação de processos.
+
 Business Intelligence: Análise de churn, NPS, métricas de produto e CRM, análise de engajamento.
